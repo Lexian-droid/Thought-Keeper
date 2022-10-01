@@ -18,8 +18,9 @@ Despite this application using a closed source engine, known as
 "***Clickteam Fusion***" I still opted to release it's MFA and whatnot,
 - only requirement is that you must include the LICENSE file.
 
-We also accept forking, for example, if you want to add custom funactionlity, we completely accept that. But we do not accept forks
+We also accept forking, for example, if you want to add custom funactionlity, we completely accept that.
 
+But we do not accept forks
 that attempt to take the app away from the clickteam fusion platform, and
 if you want to contribute, you must have the ability to modify MFA files.
 
