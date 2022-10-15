@@ -27,3 +27,5 @@ if you want to contribute, you must have the ability to modify MFA files.
 ---
 
 Thanks!
+
+<a href='https://lexiandev.itch.io/thought-keeper'><img src='https://static.itch.io/images/badge-color.svg' width='45%'></a>
